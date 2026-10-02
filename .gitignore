@@ -1,0 +1,8 @@
+# Generated distribution archive.
+chebykin-homepage.zip
+
+# Editor and operating-system files.
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
